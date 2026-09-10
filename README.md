@@ -26,6 +26,9 @@ The project uses:
 - Logistic Regression
 The dataset contains 5,572 messages.
 
+## Accuracy, Precision and Recall
+<img width="885" height="770" alt="Screenshot 2026-09-09 at 10 38 30 PM" src="https://github.com/user-attachments/assets/7d6e62ad-a506-400a-b8bc-7aa398e3d4d5" />
+
 ## Example
 Input:
 "hey, do you wanna go play cricket at the family picnic this Saturday"
