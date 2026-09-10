@@ -1,6 +1,7 @@
 # spam-email-classifier
 Machine Learning Spam Email Classifier built with Python and Scikit-Learn.
 A Machine Learning Project that classifies messages as either spam or legitimate (ham) using Python and scikit-learn.
+Built to understand how real-world spam filters work, applying NLP and classification techniques on 5,572 email messages.
 
 ## Technologies Used
 - Python
